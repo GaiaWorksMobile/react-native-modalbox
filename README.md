@@ -32,6 +32,7 @@ Check [index.js](https://github.com/maxs15/react-native-modalbox/blob/master/Exa
 | backdropColor | black| `bool` | backgroundColor of the backdrop
 | backdropContent | null| `ReactElement` | Add an element in the backdrop (a close button for example)
 | animationDuration | 400| `number` | Duration of the animation
+| top | 0| `number` | Control the modal top position
 
 ## Events
 
